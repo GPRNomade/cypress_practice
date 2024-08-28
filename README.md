@@ -1,2 +1,5 @@
 # cypress_practice
-first formal approach to Cypress
+Ejercicio de práctica Apis y Commands
+
+Trello-Bugs: 
+https://trello.com/b/xxcVOPEK/qa-automation
