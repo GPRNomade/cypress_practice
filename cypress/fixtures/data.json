@@ -1,0 +1,18 @@
+{ 
+  "Validar envío de form con data correcta": {
+    "name": "gabriela lopez",
+    "email": "hello@cypress.io",
+    "phone": "123456789123",
+    "subject": "reserva",
+    "description": "Espero que este mensaje le encuentre bien. Me dirijo a usted con una mezcla de emoción y curiosidad, ya que pronto tendré el placer de alojarme en el [Nombre del Hotel], un lugar que he oído describir como un refugio de serenidad y encanto. Sin embargo, antes de dejarme llevar por las expectativas, me gustaría confirmar algunos detalles para asegurarme de que mi estadía sea tan perfecta como la he imaginado. Primero, quisiera confirmar que la reserva está a mi nombre, [Tu Nombre], y que las fechas programadas son correctas: llegada el [Fecha de Llegada] y salida el [Fecha de Salida]. "
+  },
+  "Validar envío de form con data incorrecta": {
+    
+    "name": "2abc",
+    "email": "invalid-email",
+    "phone": "abcde12345",
+    "subject": "hola",
+    "description": "Mensaje"
+  
+  } 
+}
