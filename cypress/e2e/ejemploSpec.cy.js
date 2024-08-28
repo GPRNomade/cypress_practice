@@ -1,15 +1,15 @@
-describe("template spec", () => {
-  // describe es lo que me dice este es un test
-  it("passes", () => {
-    cy.visit("https://example.cypress.io");
-    cy.get('span')
-    // lo mejor es que sea por clase o por id. Ojo con los id's generados por angular
-    cy.get('.nombreDeClase')
-    cy.get('#idDelElemento')
-    cy.get('[name="nombreDelElemento"]') 
-    // para traer cosas por type 
-  });
-});
+// describe("template spec", () => {
+//   // describe es lo que me dice este es un test
+//   it("passes", () => {
+//     cy.visit("https://example.cypress.io");
+//     cy.get('span')
+//     // lo mejor es que sea por clase o por id. Ojo con los id's generados por angular
+//     cy.get('.nombreDeClase')
+//     cy.get('#idDelElemento')
+//     cy.get('[name="nombreDelElemento"]') 
+//     // para traer cosas por type 
+//   });
+// });
 
 // sintaxis función/test describe('nombre test', ()=>{})
 // - visit(url): para visitar una URL específica en la aplicación web.
